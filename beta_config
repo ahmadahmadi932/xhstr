@@ -1,6 +1,6 @@
 {
-    "update":false,
-    "updateUrl":"",
+    "update":true,
+    "updateUrl":"https://google.com",
     "mustShare":true,
     "ads":"https://google.com",      
 }
