@@ -2,5 +2,6 @@
     "update":true,
     "updateUrl":"https://google.com",
     "mustShare":true,
-    "ads":"https://google.com"     
+    "ads":"https://google.com",
+    "site":"https://xhday.com"
 }
