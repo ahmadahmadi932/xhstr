@@ -1,7 +1,9 @@
 {
     "update":false,
+    "update_url":"",
     "url":"https://xhday.com",
-    "updateUrl":"https://google.com",
-    "mustShare":false,
-    "ads":"https://google.com"
+    "ads":["https://google.com",
+         "https://m.facebook.com",
+         "https://stackoverflow.com"
+    ]
 }
