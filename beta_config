@@ -3,7 +3,7 @@
 	"update_url": "",
 	"url": "https://xhday.com",
 	"from": 0,
-	"to": 10,
+	"to": 5,
 	"ads": ["https://google.com",
 		"https://m.facebook.com",
 		"https://stackoverflow.com"
